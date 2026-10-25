@@ -1,4 +1,4 @@
-# CrickAnalytica2023 – T20 Cricket Analytics Dashboard
+ v# CrickAnalytica2023 – T20 Cricket Analytics Dashboard
 
 ## Project Overview
 CrickAnalytica2023 is a cricket analytics project that explores T20 cricket data through data preprocessing, statistical analysis, and interactive Power BI visualizations.
@@ -21,6 +21,11 @@ CrickAnalytica2023 is a cricket analytics project that explores T20 cricket data
 - Player statistics and comparisons
 - T20 match data exploration
 - Dashboard-based data visualization
+
+## Dashboard Preview
+
+![CrickAnalytica2023 Dashboard](Project%20Screenshots/Final%2012.png)
+
 
 ## How to Use
 1. Download or clone this repository.
